@@ -128,3 +128,6 @@ Validate <- function(Training_Ind, Test_Ind, Training_Cl, Test_Cl)
 #Trains knn model using training and test values and writes predictions to dfPreds file
 Validate(Training_Indicator, Validation_Indicators, Training_Class, dfVal)
 ```
+
+# GitHub: https://github.com/emteepastiche/MSDS6306_CaseStudyTwo
+# YouTube: https://youtu.be/nh0O8icwVaw
